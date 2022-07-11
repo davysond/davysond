@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/davyson.d/">
   <img align="left" alt="Davyson Douglas | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 
-  <br />
+<br />
   
 <a href="https://twitter.com/davysondg">
   <img align="left" alt="Davyson Douglas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
