@@ -14,7 +14,7 @@ Olá, sou o [Davyson Douglas](https://sites.google.com/view/davysondouglas/), de
 
 Computação representa arte, vida e liberdade para quem consegue enxergar através das linhas de código. Sou um apaixonado por isso e quero fazer dessa paixão a minha vida.
 
-** - Tecnologias e linguagens:**  
+- **Tecnologias e linguagens:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
