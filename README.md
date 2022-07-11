@@ -14,7 +14,7 @@ Olá, sou o [Davyson Douglas](https://sites.google.com/view/davysondouglas/), de
 
 Computação representa arte, vida e liberdade para quem consegue enxergar através das linhas de código. Sou um apaixonado por isso e quero fazer dessa paixão a minha vida.
 
-- **Tecnologias e linguagens:**  
+💻 **Tecnologias e Linguagens:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
@@ -23,7 +23,11 @@ Computação representa arte, vida e liberdade para quem consegue enxergar atrav
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📈 **Minhas estatísticas do GitHub:**
+📈 **Minhas estatísticas no GitHub:**
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<div>
+<a href="https://github.com/davysond">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davysond&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=davysond&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
