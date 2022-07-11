@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/davyson-douglas-b4bb741b7/">
   <img align="left" alt="Davyson Douglas | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br />
 
 Olá, sou o [Davyson Douglas](https://sites.google.com/view/davysondouglas/), desenvolver sempre foi uma das minhas grandes paixões. Desde muito novo acompanhava os scripts de jogos e aplicativos e tentava compreender como aquilo se transformava no visual, no usual. Com a chegada da adolescência percebi que essa área era realmente aquilo que queria para o restante da minha vida.
