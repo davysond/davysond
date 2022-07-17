@@ -1,4 +1,3 @@
-### Olá, pessoal!
 <a href="https://www.instagram.com/davyson.d/">
   <img align="left" alt="Davyson Douglas | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://twitter.com/davysondg">
