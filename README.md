@@ -7,7 +7,7 @@
   <img align="left" alt="Davyson Douglas | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/EoH4Wpu8suiNTLpI6j/giphy.gif?cid=ecf05e47cyttk3s367pr9xw3013mn42g5gsk1ysqxoocztp4&rid=giphy.gif&ct=g" width="450" height="300" />
   
   
 <br />
