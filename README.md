@@ -7,7 +7,7 @@
   <img align="left" alt="Davyson Douglas | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
-<img align="right" alt="GIF" src="https://c.tenor.com/drKuhgBblzcAAAAd/anton-hacker.gif?raw=true" width="466" height="530" />
+<img align="right" alt="GIF" src="https://c.tenor.com/drKuhgBblzcAAAAd/anton-hacker.gif?raw=true" width="350" height="420" />
   
   
 <br />
