@@ -13,7 +13,7 @@
 <br />
 <br />
   
-Bem-vindos, sou o [Davyson Douglas](https://sites.google.com/view/davysondouglas/), desenvolver sempre foi uma das minhas grandes paixões. Desde muito novo acompanhava os scripts de jogos e aplicativos e tentava compreender como aquilo se transformava no visual, no usual. Com a chegada da adolescência percebi que essa área era realmente aquilo que queria para o restante da minha vida.
+Bem-vindos, desenvolver sempre foi uma das minhas grandes paixões. Desde muito novo acompanhava os scripts de jogos e aplicativos e tentava compreender como aquilo se transformava no visual, no usual. Com a chegada da adolescência percebi que essa área era realmente aquilo que queria para o restante da minha vida.
 
 Computação representa arte, vida e liberdade para quem consegue enxergar através das linhas de código. Sou um apaixonado por isso e quero fazer dessa paixão a minha vida.
 
@@ -21,7 +21,7 @@ Computação representa arte, vida e liberdade para quem consegue enxergar atrav
 
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
