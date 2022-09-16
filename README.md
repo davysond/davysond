@@ -19,13 +19,14 @@ Computação representa arte, vida e liberdade para quem consegue enxergar atrav
 
 **Ferramentas e Tecnologias:**
 
-<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="20" src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo-thumbnail.png"></code>
+  
 📈 **Minhas estatísticas no GitHub:**
 
 <div>
