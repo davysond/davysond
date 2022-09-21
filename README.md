@@ -4,6 +4,8 @@
   <img align="left" alt="Davyson Douglas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/davyson-douglas-b4bb741b7/">
+  
+  </br>
   <img align="left" alt="Davyson Douglas | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
   
