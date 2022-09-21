@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/davyson-douglas-b4bb741b7/">
 <img align="left" alt="Davyson Douglas | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-  
+<br>
 ## <img src="https://i.pinimg.com/originals/8d/6c/82/8d6c820649720da9f7ce471c8a3fe906.gif" width="40"> Hi, I'm Davysom Douglas
 <img align="right" alt="GIF" src="https://c.tenor.com/drKuhgBblzcAAAAd/anton-hacker.gif?raw=true" width="350" >
 
