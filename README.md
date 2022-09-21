@@ -10,7 +10,7 @@
 <br>
 
 ## <img src="https://i.pinimg.com/originals/8d/6c/82/8d6c820649720da9f7ce471c8a3fe906.gif" width="40"> Hi, I'm Davyson Douglas
-<img align="right" alt="GIF" src="https://c.tenor.com/drKuhgBblzcAAAAd/anton-hacker.gif?raw=true" width="250" >
+<img align="right" alt="GIF" src="https://c.tenor.com/drKuhgBblzcAAAAd/anton-hacker.gif?raw=true" height="50" width="250" >
 
 Developing has always been one of my great passions. From a very young age, I followed game and application scripts and tried to understand how that turned into the visual, the usual. With the arrival of adolescence I realized that this area was really what I wanted for the rest of my life.
 
