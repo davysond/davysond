@@ -13,11 +13,14 @@
 <br />
 <br />
   
-Bem-vindos, desenvolver sempre foi uma das minhas grandes paixões. Desde muito novo acompanhava os scripts de jogos e aplicativos e tentava compreender como aquilo se transformava no visual, no usual. Com a chegada da adolescência percebi que essa área era realmente aquilo que queria para o restante da minha vida.
+## <img src="https://i.pinimg.com/originals/8d/6c/82/8d6c820649720da9f7ce471c8a3fe906.gif" width="40"> Hi, I'm Davysom Douglas
+<img align="right" alt="GIF" src="https://www.icegif.com/wp-content/uploads/baby-yoda-bye-bye-icegif.gif" width="350" >
 
-Computação representa arte, vida e liberdade para quem consegue enxergar através das linhas de código. Sou um apaixonado por isso e quero fazer dessa paixão a minha vida.
+Developing has always been one of my great passions. From a very young age, I followed game and application scripts and tried to understand how that turned into the visual, the usual. With the arrival of adolescence I realized that this area was really what I wanted for the rest of my life.
 
-💻 **Ferramentas e Tecnologias:**
+Computing represents art, life and freedom for those who can see through the lines of code. I am passionate about it and I want to make this passion my life.
+
+💻 **Tools and Technologies 🔨:** 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
@@ -27,7 +30,7 @@ Computação representa arte, vida e liberdade para quem consegue enxergar atrav
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
-📈 **Minhas estatísticas no GitHub:**
+📈 **My Stats:**
 
 <div>
 <a href="https://github.com/davysond">
