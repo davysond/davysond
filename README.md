@@ -19,6 +19,8 @@ Computing represents art, life and freedom for those who can see through the lin
 💻 **Tools and Technologies 🔨:** 
 
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
