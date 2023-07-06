@@ -24,7 +24,7 @@ Computing represents art, life and freedom for those who can see through the lin
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"></code>
 <code><img height="20" src="https://w7.pngwing.com/pngs/535/618/png-transparent-ruby-on-rails-computer-programming-programming-language-ruby-angle-rectangle-logo-thumbnail.png"></code>
-<code><img height="20" src="https://media.istockphoto.com/id/868615866/pt/vetorial/sql-database-icon-design-ui-or-ux-app.jpg?s=612x612&w=0&k=20&c=enfUNgnXWz_4fKIAR54qiMychQpkm6vc-iXHm8WmhZE="></code>
+<code><img height="20" src="https://e7.pngegg.com/pngimages/173/36/png-clipart-postgresql-logo-computer-software-database-open-source-s-text-head.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
   
 📈 **My Stats:**
