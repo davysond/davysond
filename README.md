@@ -32,5 +32,6 @@ Computing represents art, life and freedom for those who can see through the lin
 <div>
 <a href="https://github.com/davysond">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davysond&layout=compact&langs_count=7&theme=dracula"/>
+(https://github-readme-stats.vercel.app/api?username=davysond)](https://github.com/davysond/github-readme-stats)
 </div>
 
