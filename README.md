@@ -1,10 +1,10 @@
 <a href="https://www.instagram.com/davyson.d/">
-  <img align="left" alt="Davyson Douglas | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+  <img align="left" alt="Davyson Douglas | Instagram" width="23px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 <a href="https://twitter.com/davysondg">
-  <img align="left" alt="Davyson Douglas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Davyson Douglas | Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/davyson-douglas-b4bb741b7/">
-<img align="left" alt="Davyson Douglas | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<img align="left" alt="Davyson Douglas | LinkedIn" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br>
