@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/davyson-douglas-b4bb741b7/">
   <img align="left" alt="Davyson Douglas | LinkedIn" width="24px" src="https://img.icons8.com/?size=512&id=xuvGCOXi8Wyg&format=png" />
 <a href="https://davysond-portfolio.vercel.app/">
-  <img align="left" alt="Davyson Douglas | LinkedIn" width="24px" src="https://w7.pngwing.com/pngs/662/211/png-transparent-computer-icons-symbol-world-wide-web-miscellaneous-text-trademark-thumbnail.png" />
+  <img align="left" alt="Davyson Douglas | LinkedIn" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/9c/GNOME_Web_logo.png" />
 </a>
 
 <br>
